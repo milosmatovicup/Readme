@@ -48,33 +48,4 @@ You are welcome!
 <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <br><br>
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.2591,
-              40.4774
-            ],
-            [
-              -73.7004,
-              40.9176
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 </details>
